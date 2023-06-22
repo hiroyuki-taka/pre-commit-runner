@@ -20,7 +20,7 @@ repos:
       name: a
       args:
         - sub-a
-      files: "sub-b/.*"
+      files: "sub-a/.*"
     - id: pre-commit-runner
       name: b
       args:
